@@ -16,7 +16,7 @@
 
 ## History
 
-  In late 2020 or early 2021, I was learning about the Python requests library, network activity, and how to manipulate it through coding. I tested these techniques on various websites, and 1v1.lol was no exception. After completing a ranked match, I discovered that a single GET request was sent to the server, so I experimented with replicating and sending that request myself... and it worked. However, I soon realized that auth tokens expire, prompting me to find a method to retrieve the refresh token from the Google account linked to 1v1.lol, which allowed access to a new auth token. At that stage, I had developed a flawless booster that could run indefinitely, all that remained was to visualize the process in the command prompt and explore other requests that could potentially be exploited
+  In early 2021, I was learning about the Python requests library, network activity, and how to manipulate it through coding. I tested these techniques on various websites, and 1v1.lol was no exception. After completing a ranked match, I discovered that a single GET request was sent to the server, so I experimented with replicating and sending that request myself... and it worked. However, I soon realized that auth tokens expire, prompting me to find a method to retrieve the refresh token from the Google account linked to 1v1.lol, which allowed access to a new auth token. At that stage, I had developed a flawless booster that could run indefinitely, all that remained was to visualize the process in the command prompt and explore other requests that could potentially be exploited
 
 ## What I Gained From This Script
 

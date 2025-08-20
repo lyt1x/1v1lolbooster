@@ -3,7 +3,7 @@
   This was a tool that automated winning competitive games. It completely broke the elo system. The highest legitimately known elo before the boosters was around ~5000, but afterwards, the highest known elo reached around ~60 million <br />
   
   I created it in early 2021 by figuring out how to send a GET request to the game's database. Doop did the same, since we were in the same clan. By mid 2021, roughly a quarter to a third of the active players had either: 
-  1) Paid for the boost
+  1) Paid for a boost
   2) Gotten their ELO boosted because they knew someone with a booster
   3) Been given a booster by someone
   4) Created their own booster <br />

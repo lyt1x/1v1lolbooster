@@ -22,9 +22,8 @@
 
   1) I achieved 25 million elo on my main account, though I eventually lost interest and was surpassed by one or two others (one confirmed, one unconfirmed) <br />
   
-  (this is the highest elo I [could](https://youtu.be/AGtgT_ld5cs?si=U5i_ZQGYlGnYROwC) find a screenshot of) <br />
-<img width="212" height="53" alt="Screenshot_3" src="https://github.com/user-attachments/assets/677d70ab-3027-4942-a037-d8b4e028c3fc" />
-
+  (this is the highest elo I could find a screenshot of) <br />
+ <img width="364" height="454" alt="Screenshot_4" src="https://github.com/user-attachments/assets/a59a732e-0682-4077-ba17-16c315b6f5d9" />
 
   2) I boosted a few people, earning about $200 worth of Discord Nitros in total, though I didn’t run a boosting server like Doop, since I didn’t care that much at the time <br />
 
